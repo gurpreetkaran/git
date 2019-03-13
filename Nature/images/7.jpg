@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="http://www.baltana.com/templates/paintbrush/style.css" />   
+        <script type="text/javascript">
+
+SITE_URL = 'http://www.baltana.com';
+SEO_ON = '3';
+COMMENT_WAIT = 'Please wait 60 seconds between comments';
+COMMENT_ERROR = 'An error occured in sending your comment';
+WALLPAPER_SUBMIT_COMMENT = 'Submit comment';
+ADDING_COMMENT = 'Adding comment';
+COMMENT_ADDED = 'Comment added';window.setTimeout('WallpaperAddHit(1116)', 1000);
+function WallpaperAddHit(id) {
+	AjaxPost("http://www.baltana.com/includes/wallpaper/ajax/wallpaper_hit.php", "wallpaper_id="+id, 
+			 function () {}
+	)
+}
+</script>
+<meta name="distribution" content="Global" />
+<meta name="rating" content="General" />
+<meta name="language" content="en-us" />
+<meta name="robots" content="follow,index" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<script type="text/javascript" src="http://www.baltana.com/includes/wss.js"></script>
+<link rel="alternate" type="application/rss+xml" title="http://www.baltana.com" href="http://www.baltana.com/rss.php" />
+
+<title>Nature Wallpaper 01145 - Baltana</title><meta name="description" content="Download free Nature Wallpaper 01145 available in different high-quality resolutions and sizes." />
+	<meta name="KEYWORDS" content="3648x2052,Beautiful,Mountains" />
+	<meta property="og:image" content="http://www.baltana.com/file/1116/700x394/16:9/nature-wallpaper-01145_1911072671.jpg" /><link rel="canonical" href="http://www.baltana.com/nature/nature-wallpaper-01145.html" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+<link rel="shortcut icon" href="http://www.baltana.com/favicon.ico" type="image/x-icon" />
+<link rel="icon" href="http://www.baltana.com/favicon.ico" type="image/x-icon" />
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-35935134-61']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher: "c4f17738-ca35-4613-954c-c5a901d96f30", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+        <meta name="viewport" content="width=device-width; initial-scale=1.0" />
+    </head>
+<body>
+<header class="header">
+	    <section class="header_logo">
+	    	<a href="http://www.baltana.com">
+                  <img src="http://www.baltana.com/templates/paintbrush/images/logo.png" alt="Baltana" title="Baltana" />
+        </a>
+	    </section>
+		  <section class="menu_left">
+                <div class="menu_item">
+		  		<a href="http://www.baltana.com"title="Download Free Desktop HD Wallpaper HD | Baltana">Home</a></div><div class="menu_item">
+<a href="http://www.baltana.com/all.html"title="New Wallpapers">New Wallpapers</a></div><div class="menu_item">
+<a href="http://www.baltana.com/all/rating/1.html"title="Top Rated Wallpapers">Top Rated</a></div><div class="menu_item"></div><div class="menu_item"><a href="http://www.baltana.com/page/contact.html">Contact</a></div><div class="menu_item"><a href="http://www.baltana.com/page/privacy-policy.html">Privacy Policy</a></div><div class="menu_item"><a href="http://www.baltana.com/page/copyright-policy.html">Copyright Policy</a></div><div class="menu_item"><a href="http://www.baltana.com/page/about.html">About</a>                </div>
+		  </section>
+		<section class="menu_right">
+			<form action="http://www.baltana.com/index.php?task=search" method="get" onsubmit="searchSubmit('http://www.baltana.com', '.html'); return false;">
+  				<input name="task" type="hidden" value="search" />
+                <input name="q" type="text" id="search_textbox" placeholder="Search..."/>  
+  				<button type="submit">Search</button>
+  			</form>
+		</section>	
+</header>
+<aside class="aside-left">
+	<h2>Categories</h2>
+<div class="category_menu_item">
+	<a href="http://www.baltana.com/all.html">All Wallpapers</a></div><div class="category_menu_item"><a href="http://www.baltana.com/abstract.html"title="Abstract Wallpapers">Abstract</a><br><a href="http://www.baltana.com/animals.html"title="Animals Wallpapers">Animals</a><br><a href="http://www.baltana.com/anime.html"title="Anime Wallpapers">Anime</a><br><a href="http://www.baltana.com/vehicles.html"title="Vehicles Wallpapers">Vehicles</a><br><a href="http://www.baltana.com/cartoons.html"title="Cartoons Wallpapers">Cartoons</a><br><a href="http://www.baltana.com/celebrities.html"title="Celebrities Wallpapers">Celebrities</a><br><a href="http://www.baltana.com/art.html"title="Art Wallpapers">Art</a><br><a href="http://www.baltana.com/fantasy.html"title="Fantasy Wallpapers">Fantasy</a><br><a href="http://www.baltana.com/funny.html"title="Funny Wallpapers">Funny</a><br><a href="http://www.baltana.com/games.html"title="Games Wallpapers">Games</a><br><a href="http://www.baltana.com/beautiful.html"title="Beautiful Wallpapers">Beautiful</a><br><a href="http://www.baltana.com/holidays.html"title="Holidays Wallpapers">Holidays</a><br><a href="http://www.baltana.com/male-celebrities.html"title="Male Celebrities Wallpapers">Male Celebrities</a><br><a href="http://www.baltana.com/movies.html"title="Movies Wallpapers">Movies</a><br><a href="http://www.baltana.com/music.html"title="Music Wallpapers">Music</a><br><a href="http://www.baltana.com/nature.html"title="Nature Wallpapers">Nature</a><br><a href="http://www.baltana.com/photography.html"title="Photography Wallpapers">Photography</a><br><a href="http://www.baltana.com/quotes.html"title="Quotes Wallpapers">Quotes</a><br><a href="http://www.baltana.com/space.html"title="Space Wallpapers">Space</a><br><a href="http://www.baltana.com/sports.html"title="Sports Wallpapers">Sports</a><br><a href="http://www.baltana.com/world.html"title="World Wallpapers">World</a><br><a href="http://www.baltana.com/love.html"title="Love Wallpapers">Love</a><br><a href="http://www.baltana.com/food.html"title="Food Wallpapers">Food</a><br><a href="http://www.baltana.com/more.html"title="More Wallpapers">More</a><br><a href="http://www.baltana.com/brands.html"title="Brands Wallpapers">Brands</a><br><a href="http://www.baltana.com/backgrounds.html"title="Backgrounds Wallpapers">Backgrounds</a><br><a href="http://www.baltana.com/tech.html"title="Tech Wallpapers">Tech</a><br></div>
+<h2>Resolutions</h2>
+	<li><a title="1024x768 Normal" href="/tag/1024x768.html">1024x768 Normal</a></li>
+	<li><a title="1280x720 HD 16:9" href="/tag/1280x720.html">1280x720 HD 16:9</a></li>
+	<li><a title="1280x800 Wide 16:10" href="/tag/1280x800.html">1280x800 Wide 16:10</a></li>
+	<li><a title="1280x960 Normal 4:3" href="/tag/1280x960.html">1280x960 Normal 4:3</a></li>
+	<li><a title="1280x1024 Standard 5:4" href="/tag/1280x1024.html">1280x1024 Standard 5:4</a></li>
+	<li><a title="1440x900 Wide 16:10" href="/tag/1440x900.html">1440x900 Wide 16:10</a></li>
+	<li><a title="1600x900 HD 16:9 High Resolution" href="/tag/1600x900.html">1600x900 HD 16:9 High Resolution</a></li>
+	<li><a title="1680x1050 Widescreen" href="/tag/1680x1050.html">1680x1050 Widescreen</a></li>
+	<li><a title="1600x1200 Standard 4:3" href="/tag/1600x1200.html">1600x1200 Standard 4:3</a></li>
+	<li><a title="1920x1080 HD" href="/tag/1920x1080.html">1920x1080 HD</a></li>
+	<li><a title="1920x1200 Widescreen" href="/tag/1920x1200.html">1920x1200 Widescreen</a></li>
+	<li><a title="1920x1280 Widescreen" href="/tag/1920x1280.html">1920x1280 Widescreen</a></li>
+	<li><a title="1920x1440 Standard 4:3" href="/tag/1920x1440.html">1920x1440 Standard 4:3</a></li>
+	<li><a title="2560x1440 HDTV" href="/tag/2560x1440.html">2560x1440 HDTV</a></li>
+	<li><a title="2560x1600 Wide" href="/tag/2560x1600.html">2560x1600 Wide</a></li>
+	<li><a title="2880x1800 Wide" href="/tag/2880x1800.html">2880x1800 Wide</a></li>
+	<li><a title="3840x2160 4K" href="/tag/3840x2160.html">3840x2160 Ultra HD 4K</a></li>
+</aside>
+<main class="content">
+<br />
+				<center><p><span style="font-size:0.8em">Advertisements</span></p>
+<style type="text/css"> 
+.adslot_1 { max-width: 300px; height: auto; margin:10px 0px; }
+@media (min-width:100px) { .adslot_1 { width:125px; height:125px; } } 
+@media (min-width:180px) { .adslot_1 { width:180px; height:150px; } } 
+@media (min-width:200px) { .adslot_1 { width:200px; height:200px; } } 
+@media (min-width:250px) { .adslot_1 { width:250px; height:250px; } } 
+@media (min-width:300px) { .adslot_1 { width:300px; height:600px; } } 
+@media (min-width:336px) { .adslot_1 { width:336px; height:280px; } } 
+@media (min-width:468px) { .adslot_1 { width:468px; height:60px; } } 
+@media (min-width:728px) { .adslot_1 { width:728px; height:90px; } }
+</style>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Link ads responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8822717667672157"
+     data-ad-slot="9511443968"
+     data-ad-format="link"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></center>
+    <section class="wallpapers">
+			    <h1><a href="http://www.baltana.com" title="Baltana">Home</a> &raquo; <a href="http://www.baltana.com/nature.html" title="Nature Wallpapers">Nature</a> &raquo; Nature Wallpaper 01145</h1>
+               <div class="info_item"><span class="info_item_title"><b>Description:</b></span> Download free Nature Wallpaper 01145 available in different high-quality resolutions and sizes. <b><script type="text/javascript">
+var ScreenWidth=screen.width; var ScreenHeight=screen.height; var ScreenResolution=ScreenWidth+"x"+ScreenHeight; document.write("<span style=\"color:#0000;text-shadow: 0px 2px 0px #666666;text-transform: capitalize;\">&nbsp;Your screen resolution is " + ScreenResolution + "</span>");
+</script></b>. If you still don't find the correct resolution you want, scroll down below to find out more resolutions and sizes. <b>Nature Wallpaper 01145</b> uploaded by: <a title="Uploader" href="/profile/rajesh.html" rel="author">Rajesh</a> in <b>3648x2052</b> resolution with the size of <b>1780.45 KB</b> which received <b>56878 views and 4112 downloads</b> so far. Uploaded on: 15-06-2016</div>
+<br>
+<div class="wallpaper_preview">
+                    <a href="http://www.baltana.com/files/wallpapers-1/Nature-Wallpaper-01145.jpg" target="_blank" ><img src="http://www.baltana.com/files/wallpapers-1/Nature-Wallpaper-01145.jpg" title="Nature Wallpaper 01145" alt="Nature Wallpaper 01145" /><br>
+<a href="http://www.baltana.com/files/wallpapers-1/Nature-Wallpaper-01145.jpg"  download onclick="countDownload(1116);" class="download" title="Download Original Size of Nature Wallpaper 01145" target="_blank"><b>Download Original Resolution</b></a><br>
+				   </a>
+				   <br>
+					<div><b>Tags:</b> <a href="http://www.baltana.com/tag/3648x2052.html"class="tagbutton"title="3648x2052 Wallpapers">3648x2052</a>&nbsp; <a href="http://www.baltana.com/tag/beautiful.html "class="tagbutton" title="Beautiful Wallpapers">Beautiful</a>&nbsp; <a href="http://www.baltana.com/tag/mountains.html "class="tagbutton" title="Mountains Wallpapers">Mountains</a></div>
+                    <b>Category:</b> <a href="http://www.baltana.com/nature.html"class="tagbutton" title="Nature Wallpapers">Nature</a>
+                </div></center>
+				<div class="resolutions_container">
+                    <center>
+<span st_url='http://www.baltana.com/nature/nature-wallpaper-01145.html' title="Add to Facebook" class='st_facebook_large' displayText='Facebook'></span>
+<span st_url='http://www.baltana.com/nature/nature-wallpaper-01145.html' title="Add to Google+" class='st_googleplus_large'displayText='GooglePlus'></span>
+<span st_url='http://www.baltana.com/nature/nature-wallpaper-01145.html' title="Add to Twitter" class='st_twitter_large'displayText='Twitter'></span>
+<span st_url='http://www.baltana.com/nature/nature-wallpaper-01145.html' title="Add to Pinterest" class='st_pinterest_large'displayText='Pinterest'></span>
+<span st_url='http://www.baltana.com/nature/nature-wallpaper-01145.html' title="Add to StumbleUpon" class='st_stumbleupon_large'displayText='ST'></span>
+<span st_url='http://www.baltana.com/nature/nature-wallpaper-01145.html' title="More Ways to Share This Page" class='st_sharethis_large'displayText='Share'></span>
+</center>
+<center><p><span style="font-size:0.8em">Advertisements</span></p>
+<style type="text/css"> 
+.adslot_1 { max-width: 300px; height: auto; margin:10px 0px; }
+@media (min-width:100px) { .adslot_1 { width:125px; height:125px; } } 
+@media (min-width:180px) { .adslot_1 { width:180px; height:150px; } } 
+@media (min-width:200px) { .adslot_1 { width:200px; height:200px; } } 
+@media (min-width:250px) { .adslot_1 { width:250px; height:250px; } } 
+@media (min-width:300px) { .adslot_1 { width:300px; height:600px; } } 
+@media (min-width:336px) { .adslot_1 { width:336px; height:280px; } } 
+@media (min-width:468px) { .adslot_1 { width:468px; height:60px; } } 
+@media (min-width:728px) { .adslot_1 { width:728px; height:90px; } }
+</style>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Link ads responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8822717667672157"
+     data-ad-slot="9511443968"
+     data-ad-format="link"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></center>
+<br />
+<div class="resolutions_list_container">
+	<div class="resolutions_list_header">Select Resolution</div>
+	<div class="resolutions_row"><div class="resolution_category"><div class="resolution_title">HD</div><div class="resolution_item"><a id="resolution_link_800x600" href="http://www.baltana.com/download/1116/800x600/crop/nature-wallpaper-01145.jpg" title="800x600 " target="_blank" class="tagbutton" onclick="countDownload(1116);">800x600 </a></div><div class="resolution_item"><a id="resolution_link_1024x768" href="http://www.baltana.com/download/1116/1024x768/crop/nature-wallpaper-01145.jpg" title="1024x768 " target="_blank" class="tagbutton" onclick="countDownload(1116);">1024x768 </a></div><div class="resolution_item"><a id="resolution_link_1366x768" href="http://www.baltana.com/download/1116/1366x768/crop/nature-wallpaper-01145.jpg" title="1366x768 " target="_blank" class="tagbutton" onclick="countDownload(1116);">1366x768 </a></div><div class="resolution_item"><a id="resolution_link_1600x900" href="http://www.baltana.com/download/1116/1600x900/crop/nature-wallpaper-01145.jpg" title="1600x900 " target="_blank" class="tagbutton" onclick="countDownload(1116);">1600x900 </a></div></div><div class="resolution_category"><div class="resolution_title">HD 16:9</div><div class="resolution_item"><a id="resolution_link_1920x1080" href="http://www.baltana.com/download/1116/1920x1080/crop/nature-wallpaper-01145.jpg" title="1920x1080 " target="_blank" class="tagbutton" onclick="countDownload(1116);">1920x1080 </a></div><div class="resolution_item"><a id="resolution_link_1920x1200" href="http://www.baltana.com/download/1116/1920x1200/crop/nature-wallpaper-01145.jpg" title="1920x1200 " target="_blank" class="tagbutton" onclick="countDownload(1116);">1920x1200 </a></div><div class="resolution_item"><a id="resolution_link_2560x1440" href="http://www.baltana.com/download/1116/2560x1440/crop/nature-wallpaper-01145.jpg" title="2560x1440 " target="_blank" class="tagbutton" onclick="countDownload(1116);">2560x1440 </a></div></div><div class="resolution_category"><div class="resolution_title">Standard</div><div class="resolution_item"><a id="resolution_link_1600x1200" href="http://www.baltana.com/download/1116/1600x1200/crop/nature-wallpaper-01145.jpg" title="1600x1200 " target="_blank" class="tagbutton" onclick="countDownload(1116);">1600x1200 </a></div><div class="resolution_item"><a id="resolution_link_1920x1440" href="http://www.baltana.com/download/1116/1920x1440/crop/nature-wallpaper-01145.jpg" title="1920x1440 " target="_blank" class="tagbutton" onclick="countDownload(1116);">1920x1440 </a></div><div class="resolution_item"><a id="resolution_link_2560x1600" href="http://www.baltana.com/download/1116/2560x1600/crop/nature-wallpaper-01145.jpg" title="2560x1600 " target="_blank" class="tagbutton" onclick="countDownload(1116);">2560x1600 </a></div></div><div class="resolution_category"><div class="resolution_title">Standard 4:3</div><div class="resolution_item"><a id="resolution_link_2880x1800" href="http://www.baltana.com/download/1116/2880x1800/crop/nature-wallpaper-01145.jpg" title="2880x1800 " target="_blank" class="tagbutton" onclick="countDownload(1116);">2880x1800 </a></div></div></div></div>
+  	
+  	<script type="text/javascript">
+		setScreenRes('list');
+	</script>            
+<div class="wallpaper_info">
+<br>
+<b>Embed Codes:</b>                
+                    <li><label>Short Link:</label>
+                    <input class="boxround" type="text" size="45" value="http://www.baltana.com/r-1116" onclick="this.focus(); this.select();"></li>
+<br>
+                    <li><label>Website (HTML):</label>
+                    <input class="boxround" type="text" size="45" value="<a href=http://www.baltana.com/nature/nature-wallpaper-01145.html target=&quot;_blank&quot;>Nature Wallpaper 01145</a>" onclick="this.focus(); this.select();"></li>
+<br>
+                    <li><label>Forum BBCode:</label>
+                    <input class="boxround" type="text" size="45" value="[url=http://www.baltana.com/nature/nature-wallpaper-01145.html]Nature Wallpaper 01145[/url]" onclick="this.focus(); this.select();"></li>
+				<center><p><span style="font-size:0.8em">Advertisements</span></p>
+<style type="text/css"> 
+.adslot_1 { max-width: 300px; height: auto; margin:10px 0px; }
+@media (min-width:100px) { .adslot_1 { width:125px; height:125px; } } 
+@media (min-width:180px) { .adslot_1 { width:180px; height:150px; } } 
+@media (min-width:200px) { .adslot_1 { width:200px; height:200px; } } 
+@media (min-width:250px) { .adslot_1 { width:250px; height:250px; } } 
+@media (min-width:300px) { .adslot_1 { width:300px; height:600px; } } 
+@media (min-width:336px) { .adslot_1 { width:336px; height:280px; } } 
+@media (min-width:468px) { .adslot_1 { width:468px; height:60px; } } 
+@media (min-width:728px) { .adslot_1 { width:728px; height:90px; } }
+</style>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Link ads responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8822717667672157"
+     data-ad-slot="9511443968"
+     data-ad-format="link"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></center>
+<br>
+<h1>Related Wallpapers</h1>
+			<div class="random_wallpapers">
+				<article class="wallpaper_item">
+    <main>
+	    <a href="http://www.baltana.com/animals/beautiful-girl-widescreen-wallpapers-31085.html">
+	    	<img src="http://www.baltana.com/imagecache/thumbnails/31735/290x180.png" title="Beautiful Girl Widescreen Wallpapers 31085" class="imagedropshadow" alt="Beautiful Girl Widescreen Wallpapers 31085"  width="150" height="267" />
+	    </a>
+	    <div class="wallpaper_item_name">
+	    	<a href="http://www.baltana.com/animals/beautiful-girl-widescreen-wallpapers-31085.html">
+	    		Beautiful Girl Widescreen Wallpapers 	    	</a>
+	    </div>
+	</main>
+</article><article class="wallpaper_item">
+    <main>
+	    <a href="http://www.baltana.com/animals/beautiful-girl-wallpaper-hd-31083.html">
+	    	<img src="http://www.baltana.com/imagecache/thumbnails/31586/290x180.png" title="Beautiful Girl Wallpaper HD 31083" class="imagedropshadow" alt="Beautiful Girl Wallpaper HD 31083"  width="150" height="267" />
+	    </a>
+	    <div class="wallpaper_item_name">
+	    	<a href="http://www.baltana.com/animals/beautiful-girl-wallpaper-hd-31083.html">
+	    		Beautiful Girl Wallpaper HD 	    	</a>
+	    </div>
+	</main>
+</article><article class="wallpaper_item">
+    <main>
+	    <a href="http://www.baltana.com/animals/beautiful-girl-hd-background-wallpaper-31078.html">
+	    	<img src="http://www.baltana.com/imagecache/thumbnails/31578/290x180.png" title="Beautiful Girl HD Background Wallpaper 31078" class="imagedropshadow" alt="Beautiful Girl HD Background Wallpaper 31078"  width="150" height="267" />
+	    </a>
+	    <div class="wallpaper_item_name">
+	    	<a href="http://www.baltana.com/animals/beautiful-girl-hd-background-wallpaper-31078.html">
+	    		Beautiful Girl HD Background Wallpaper 	    	</a>
+	    </div>
+	</main>
+</article><article class="wallpaper_item">
+    <main>
+	    <a href="http://www.baltana.com/animals/beautiful-girl-best-wallpaper-31075.html">
+	    	<img src="http://www.baltana.com/imagecache/thumbnails/31514/290x180.png" title="Beautiful Girl Best Wallpaper 31075" class="imagedropshadow" alt="Beautiful Girl Best Wallpaper 31075"  width="150" height="267" />
+	    </a>
+	    <div class="wallpaper_item_name">
+	    	<a href="http://www.baltana.com/animals/beautiful-girl-best-wallpaper-31075.html">
+	    		Beautiful Girl Best Wallpaper 	    	</a>
+	    </div>
+	</main>
+</article><article class="wallpaper_item">
+    <main>
+	    <a href="http://www.baltana.com/beautiful/beautiful-girl-background-wallpapers-31073.html">
+	    	<img src="http://www.baltana.com/imagecache/thumbnails/31485/290x180.png" title="Beautiful Girl Background Wallpapers 31073" class="imagedropshadow" alt="Beautiful Girl Background Wallpapers 31073"  width="150" height="267" />
+	    </a>
+	    <div class="wallpaper_item_name">
+	    	<a href="http://www.baltana.com/beautiful/beautiful-girl-background-wallpapers-31073.html">
+	    		Beautiful Girl Background Wallpapers 	    	</a>
+	    </div>
+	</main>
+</article><article class="wallpaper_item">
+    <main>
+	    <a href="http://www.baltana.com/beautiful/beautiful-girl-desktop-hd-wallpaper-31076.html">
+	    	<img src="http://www.baltana.com/imagecache/thumbnails/31477/290x180.png" title="Beautiful Girl Desktop HD Wallpaper 31076" class="imagedropshadow" alt="Beautiful Girl Desktop HD Wallpaper 31076"  width="150" height="267" />
+	    </a>
+	    <div class="wallpaper_item_name">
+	    	<a href="http://www.baltana.com/beautiful/beautiful-girl-desktop-hd-wallpaper-31076.html">
+	    		Beautiful Girl Desktop HD Wallpaper 	    	</a>
+	    </div>
+	</main>
+</article><article class="wallpaper_item">
+    <main>
+	    <a href="http://www.baltana.com/beautiful/beautiful-girl-wallpaper-31084.html">
+	    	<img src="http://www.baltana.com/imagecache/thumbnails/31448/290x180.png" title="Beautiful Girl Wallpaper 31084" class="imagedropshadow" alt="Beautiful Girl Wallpaper 31084"  width="150" height="267" />
+	    </a>
+	    <div class="wallpaper_item_name">
+	    	<a href="http://www.baltana.com/beautiful/beautiful-girl-wallpaper-31084.html">
+	    		Beautiful Girl Wallpaper 	    	</a>
+	    </div>
+	</main>
+</article><article class="wallpaper_item">
+    <main>
+	    <a href="http://www.baltana.com/beautiful/beautiful-girl-background-hd-wallpapers-31071.html">
+	    	<img src="http://www.baltana.com/imagecache/thumbnails/31446/290x180.png" title="Beautiful Girl Background HD Wallpapers 31071" class="imagedropshadow" alt="Beautiful Girl Background HD Wallpapers 31071"  width="150" height="267" />
+	    </a>
+	    <div class="wallpaper_item_name">
+	    	<a href="http://www.baltana.com/beautiful/beautiful-girl-background-hd-wallpapers-31071.html">
+	    		Beautiful Girl Background HD Wallpapers 	    	</a>
+	    </div>
+	</main>
+</article><article class="wallpaper_item">
+    <main>
+	    <a href="http://www.baltana.com/beautiful/beautiful-girl-hd-wallpaper-31080.html">
+	    	<img src="http://www.baltana.com/imagecache/thumbnails/31430/290x180.png" title="Beautiful Girl HD Wallpaper 31080" class="imagedropshadow" alt="Beautiful Girl HD Wallpaper 31080"  width="150" height="267" />
+	    </a>
+	    <div class="wallpaper_item_name">
+	    	<a href="http://www.baltana.com/beautiful/beautiful-girl-hd-wallpaper-31080.html">
+	    		Beautiful Girl HD Wallpaper 	    	</a>
+	    </div>
+	</main>
+</article><article class="wallpaper_item">
+    <main>
+	    <a href="http://www.baltana.com/beautiful/beautiful-girl-hd-wallpapers-31081.html">
+	    	<img src="http://www.baltana.com/imagecache/thumbnails/31395/290x180.png" title="Beautiful Girl HD Wallpapers 31081" class="imagedropshadow" alt="Beautiful Girl HD Wallpapers 31081"  width="150" height="267" />
+	    </a>
+	    <div class="wallpaper_item_name">
+	    	<a href="http://www.baltana.com/beautiful/beautiful-girl-hd-wallpapers-31081.html">
+	    		Beautiful Girl HD Wallpapers 	    	</a>
+	    </div>
+	</main>
+</article><article class="wallpaper_item">
+    <main>
+	    <a href="http://www.baltana.com/beautiful/beautiful-girl-hd-desktop-wallpaper-31079.html">
+	    	<img src="http://www.baltana.com/imagecache/thumbnails/31224/290x180.png" title="Beautiful Girl HD Desktop Wallpaper 31079" class="imagedropshadow" alt="Beautiful Girl HD Desktop Wallpaper 31079"  width="150" height="267" />
+	    </a>
+	    <div class="wallpaper_item_name">
+	    	<a href="http://www.baltana.com/beautiful/beautiful-girl-hd-desktop-wallpaper-31079.html">
+	    		Beautiful Girl HD Desktop Wallpaper 	    	</a>
+	    </div>
+	</main>
+</article><article class="wallpaper_item">
+    <main>
+	    <a href="http://www.baltana.com/beautiful/beautiful-girl-desktop-wallpaper-31077.html">
+	    	<img src="http://www.baltana.com/imagecache/thumbnails/31163/290x180.png" title="Beautiful Girl Desktop Wallpaper 31077" class="imagedropshadow" alt="Beautiful Girl Desktop Wallpaper 31077"  width="150" height="267" />
+	    </a>
+	    <div class="wallpaper_item_name">
+	    	<a href="http://www.baltana.com/beautiful/beautiful-girl-desktop-wallpaper-31077.html">
+	    		Beautiful Girl Desktop Wallpaper 	    	</a>
+	    </div>
+	</main>
+</article>			</div>
+<br>
+					
+				</div>
+			    
+				    </div>
+			    </div>
+			
+                </section>
+    </section>
+</main>
+    <footer id="footer">
+        <div id="fb-root"></div>
+		<div class="left">
+			<center>Copyright 2019 | <a href="/">Baltana - HD Wallpapers</a> | <a href="/page/terms-and-conditions.html">Terms &amp; Conditions</a> | <a href="/page/copyright-policy.html">Copyright Policy</a> | <a href="/page/contact.html">Contact</a> | <a href="/page/about.html">About</a> | <a href="/sitemap.xml">Sitemap</a></center>		</div>
+		<div class="right">
+			<ul class="contact">
+				
+			</ul>
+			<ul class="copyright">
+                			</ul>
+		</div>
+    </footer>
+    <div id="ava-popup">
+    	<div id="ava-popup-header">
+    		<div id="ava-popup-title"></div>
+    		<div id="popup-close-button" onclick="HidePopup('ava-popup');"></div>
+    	</div>
+    	<div id="ava-popup-content"></div>
+    </div>
+    <div id="overlay" onclick="HidePopup('ava-popup')"></div>
+</body>
+</html>
